@@ -1006,11 +1006,16 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/kenzo/proprietary/vendor/etc/init/vendor.dolby.hardware.dms@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.dolby.hardware.dms@1.0-service.rc \
     vendor/xiaomi/kenzo/proprietary/vendor/lib/libdapparamstorage.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdapparamstorage.so \
     vendor/xiaomi/kenzo/proprietary/vendor/lib/libstagefrightdolby.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstagefrightdolby.so \
+    vendor/xiaomi/kenzo/proprietary/vendor/lib/libdapparamstorage_ds1se.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdapparamstorage_ds1se.so \
     vendor/xiaomi/kenzo/proprietary/vendor/lib/soundfx/libswdap.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswdap.so \
+    vendor/xiaomi/kenzo/proprietary/vendor/lib/soundfx/libswdap_ds1se.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswdap_ds1se.so \
     vendor/xiaomi/kenzo/proprietary/vendor/lib/vendor.dolby.hardware.dms@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.dolby.hardware.dms@1.0.so \
     vendor/xiaomi/kenzo/proprietary/vendor/lib64/libdapparamstorage.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdapparamstorage.so \
+    vendor/xiaomi/kenzo/proprietary/vendor/lib64/libdapparamstorage_ds1se.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdapparamstorage_ds1se.so \
     vendor/xiaomi/kenzo/proprietary/vendor/lib64/libdlbdsservice.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdlbdsservice.so \
     vendor/xiaomi/kenzo/proprietary/vendor/lib64/soundfx/libswdap.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswdap.so \
+    vendor/xiaomi/kenzo/proprietary/vendor/lib64/soundfx/libswdap_ds1se.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswdap_ds1se.so \
+    vendor/xiaomi/kenzo/proprietary/vendor/lib64/libdlbdsservice_ds1se.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdlbdsservice_ds1se.so \
     vendor/xiaomi/kenzo/proprietary/vendor/lib64/vendor.dolby.hardware.dms@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.dolby.hardware.dms@1.0-impl.so \
     vendor/xiaomi/kenzo/proprietary/vendor/lib64/vendor.dolby.hardware.dms@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.dolby.hardware.dms@1.0.so
 
